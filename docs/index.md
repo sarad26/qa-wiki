@@ -3,7 +3,7 @@ layout: home
 title: QA Wiki
 
 hero:
-  name: Saravanan Wiki
+  name: Saravana Wiki
   text: Validation References, Test data and Automation notes
   tagline: One place to find what to test, what data to use, and what the latest decision was.
   actions:
